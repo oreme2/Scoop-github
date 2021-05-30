@@ -1,0 +1,21 @@
+{
+    "homepage": "https://github.com/KurtBestor/Hitomi-Downloader",
+    "description": "Desktop utility to download images/videos/music/text from various websites, and more",
+    "version": "3.3",
+    "license": "MIT",
+    "url": "https://github.com/KurtBestor/Hitomi-Downloader/releases/download/v3.3b/hitomi_downloader_GUI.zip",
+    "hash": "0FE688F8049B46D8F76C6243F721DFBB7FE345C9EFEE4C5BAF0A169A1A718EDC",
+    "bin": [
+        "hitomi_downloader_GUI.exe"
+    ],
+    "shortcuts": [
+        [
+            "hitomi_downloader_GUI.exe",
+            "hitomi_downloader_GUI"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/KurtBestor/Hitomi-Downloader/releases/download/v$version/hitomi_downloader_GUI.zip"
+    }
+}
