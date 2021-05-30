@@ -4,6 +4,7 @@
     "version": "3.42.11",
     "license": "MIT",
     "url": "https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases/download/v3.42.11/Waifu2x-Extension-GUI-v3.42.11-Win64.7z",
+    "hash": "66cd36cc41762cc22c8af0482164f13b0703f5401748c50f0845b9c3d5fd2c74",
     "bin": [
         "Waifu2x-Extension-GUI-Launcher.exe",
         "Waifu2x-Extension-GUI.exe"
