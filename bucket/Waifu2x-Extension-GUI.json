@@ -4,7 +4,6 @@
     "license": "GPL-3.0-only",
     "version": "3.42.11",
     "url": "https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases/download/v3.42.11/Waifu2x-Extension-GUI-v3.42.11-Win64.7z",
-    "hash": "18E970F7CD3986E07FC3F0093B3EA70F614A7567B749DB7556DE35D10AAB2D23",
     "extract_dir": "Waifu2x-Extension-GUI",
     "bin": "Waifu2x-Extension-GUI-Launcher.exe",
     "shortcuts": [
@@ -17,11 +16,8 @@
         "settings.ini",
         "TopSupportersList_W2xEX.ini"
     ],
-    "checkver": {
-        "github": "https://github.com/AaronFeng753/Waifu2x-Extension-GUI"
-    },
+    "checkver":"github",
     "autoupdate": {
         "url": "https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases/download/v$version/Waifu2x-Extension-GUI-v$version-Win64.7z"
-        
     },
  }
