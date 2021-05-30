@@ -15,13 +15,13 @@
     ],
     "persist": [
         "settings.ini",
-        "TopSupportersList_W2xEX.ini",
+        "TopSupportersList_W2xEX.ini"
     ],
     "checkver": {
         "github": "https://github.com/AaronFeng753/Waifu2x-Extension-GUI"
     },
     "autoupdate": {
-        "url": "https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases/download/v$version/Waifu2x-Extension-GUI-v$version-Win64.7z",
+        "url": "https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases/download/v$version/Waifu2x-Extension-GUI-v$version-Win64.7z"
         
     },
  }
