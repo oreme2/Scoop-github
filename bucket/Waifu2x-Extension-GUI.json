@@ -1,10 +1,10 @@
 {
     "homepage": "https://github.com/AaronFeng753/Waifu2x-Extension-GUI",
     "description": "Photo/Video/GIF enlargement and Video frame interpolation using machine learning",
-    "version": "3.73.14",
+    "version": "3.81.01",
     "license": "MIT",
-    "url": "https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases/download/v3.73.14/Waifu2x-Extension-GUI-v3.73.14-Win64.7z",
-    "hash": "2ad9932f78598beb2b262df7733cadd57a5af95951d3a789b36a6949b69e4373",
+    "url": "https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases/download/v3.81.01/Waifu2x-Extension-GUI-v3.81.01-Win64.7z",
+    "hash": "194fdb907ab806e4019f2733a241101844e532880e6014c111e1b7d2bdb7f819",
     "bin": "waifu2x-extension-gui/Waifu2x-Extension-GUI-Launcher.exe",
     "shortcuts": [
         [
